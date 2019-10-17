@@ -36,7 +36,7 @@ public class Images extends JFrame {
 		}
 	}
 	
-	//loads pictures
+	//load pictures
 	public void loadpics(){
 		bg = new ImageIcon("/home/roshan/workspace/com.game.Piyush/src/dexter.jpg").getImage();
 		pic = new ImageIcon("/home/roshan/workspace/com.game.Piyush/src/dexter3.jpg").getImage();
